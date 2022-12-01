@@ -40,4 +40,4 @@ Create a command, form or endpoint (depending on how you’ve chosen to build yo
 
 ### Video
 
-- I will check in my video to the git repo 'VideoOverview'
+- I will check in my video to the git repo HERE

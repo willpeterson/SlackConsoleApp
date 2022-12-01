@@ -40,4 +40,4 @@ Create a command, form or endpoint (depending on how you’ve chosen to build yo
 
 ### Video
 
-- I will check in my video to the git repo https://drive.google.com/file/d/1x0CT_Vb1k7WliHh1xy1Ywt0Y8J4baRJs/view?usp=sharing
+- I will make my video available here https://drive.google.com/file/d/1x0CT_Vb1k7WliHh1xy1Ywt0Y8J4baRJs/view?usp=sharing

@@ -28,8 +28,11 @@ Create a command, form or endpoint (depending on how you’ve chosen to build yo
 
 - I did not add much in testing, only a few classes to get the development done.  Mock style tests should be added so services do not need to be present on refactors.
 - Error handling, we need more done and logging as well
+  - Currently there is posiblity to get an empty conversation and it could be handled differently or with more status
+  - With limitations of the my slack instance I some times get 'too many requests' errors
+  - The API keys can go bad and will when updated in GIT (so should be changed to env variables or otherwise)
 - An azure function might be a good place to post this actual kind of logic, I was going to try that as well.
-- This was pretty rough and code could be cleaned up and broken out, but it does work and proves out the API can work for these cases
+- The code is could be cleaned up and broken out, but it does work and proves out the API can work for these cases
 
 ### To run
 
